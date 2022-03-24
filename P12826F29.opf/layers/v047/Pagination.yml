@@ -1,52 +1,47 @@
-id: 6a78b9de00744374b7095ea6ecd2227c
+id: 532e65698e6b4bafb108b61f5cfc0ca9
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  4b4b39ac3fbf4438ae2a418d21658782:
+  3bc6065e84ed4296b6275c92aaa494e8:
     imgnum: 165
     reference: ''
     span:
       start: 0
-      end: 775
-    note_ref: a6cddaa6c21a492e98bd3ff3b99a2685
-  473ffa796acf4dbe9d4f96b6f46e1a21:
+      end: 773
+  3eab38496275407c973968bb6b98955f:
     imgnum: 166
     reference: ''
     span:
-      start: 778
-      end: 2141
-    note_ref: a6cddaa6c21a492e98bd3ff3b99a2685
-  61e57f805380423bbb921e1473247a31:
+      start: 776
+      end: 2137
+  fc2257a493ae47768fee922ef1dc0137:
     imgnum: 167
     reference: ''
     span:
-      start: 2144
-      end: 3471
-    note_ref: a6cddaa6c21a492e98bd3ff3b99a2685
-  7f0613ae5b5d411c9f55f8b40b7cf875:
+      start: 2140
+      end: 3465
+  27192ef6bebb487f8af7d8cb8bf6dbb2:
     imgnum: 168
     reference: ''
     span:
-      start: 3474
-      end: 4815
-    note_ref: a6cddaa6c21a492e98bd3ff3b99a2685
-  0e37c8c736924a079ee37014d1408954:
+      start: 3468
+      end: 4807
+  d294e2c97c654247a37db316c817f0d6:
     imgnum: 169
     reference: ''
     span:
-      start: 4818
-      end: 5831
-    note_ref: a6cddaa6c21a492e98bd3ff3b99a2685
-  a6cddaa6c21a492e98bd3ff3b99a2685:
+      start: 4810
+      end: 5821
+  d5fbdf908a3c44d3970d2d9283db200e:
     imgnum: 170
     reference: ''
     span:
-      start: 5834
-      end: 6054
+      start: 5824
+      end: 6039
 local_ids:
-  4b4b39ac3fbf4438ae2a418d21658782: 200000
-  473ffa796acf4dbe9d4f96b6f46e1a21: 200001
-  61e57f805380423bbb921e1473247a31: 200002
-  7f0613ae5b5d411c9f55f8b40b7cf875: 200003
-  0e37c8c736924a079ee37014d1408954: 200004
-  a6cddaa6c21a492e98bd3ff3b99a2685: 200005
+  3bc6065e84ed4296b6275c92aaa494e8: 200000
+  3eab38496275407c973968bb6b98955f: 200001
+  fc2257a493ae47768fee922ef1dc0137: 200002
+  27192ef6bebb487f8af7d8cb8bf6dbb2: 200003
+  d294e2c97c654247a37db316c817f0d6: 200004
+  d5fbdf908a3c44d3970d2d9283db200e: 200005
