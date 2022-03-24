@@ -1,47 +1,52 @@
-id: 532e65698e6b4bafb108b61f5cfc0ca9
+id: 36a3dd2e87b942639265edb55db7e322
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  3bc6065e84ed4296b6275c92aaa494e8:
+  629cb4f39ef74066bfbfa549e09e0e49:
     imgnum: 165
     reference: ''
     span:
       start: 0
-      end: 773
-  3eab38496275407c973968bb6b98955f:
+      end: 771
+    note_ref: 2f0968dcc35f43b8aa2a9b98f8daf0a1
+  cf140b4ff32c4bae80f0b4d101dbfcd9:
     imgnum: 166
     reference: ''
     span:
-      start: 776
-      end: 2137
-  fc2257a493ae47768fee922ef1dc0137:
+      start: 774
+      end: 2133
+    note_ref: 2f0968dcc35f43b8aa2a9b98f8daf0a1
+  8e56e38b6bd54f29aa4645dcacf6c680:
     imgnum: 167
     reference: ''
     span:
-      start: 2140
-      end: 3465
-  27192ef6bebb487f8af7d8cb8bf6dbb2:
+      start: 2136
+      end: 3459
+    note_ref: 2f0968dcc35f43b8aa2a9b98f8daf0a1
+  38fc00d654284fd9950dfb28aacdb872:
     imgnum: 168
     reference: ''
     span:
-      start: 3468
-      end: 4807
-  d294e2c97c654247a37db316c817f0d6:
+      start: 3462
+      end: 4799
+    note_ref: 2f0968dcc35f43b8aa2a9b98f8daf0a1
+  385ee83cb63440eea3b9c21f3114b835:
     imgnum: 169
     reference: ''
     span:
-      start: 4810
-      end: 5821
-  d5fbdf908a3c44d3970d2d9283db200e:
+      start: 4802
+      end: 5808
+    note_ref: 2f0968dcc35f43b8aa2a9b98f8daf0a1
+  2f0968dcc35f43b8aa2a9b98f8daf0a1:
     imgnum: 170
     reference: ''
     span:
-      start: 5824
-      end: 6039
+      start: 5811
+      end: 6030
 local_ids:
-  3bc6065e84ed4296b6275c92aaa494e8: 200000
-  3eab38496275407c973968bb6b98955f: 200001
-  fc2257a493ae47768fee922ef1dc0137: 200002
-  27192ef6bebb487f8af7d8cb8bf6dbb2: 200003
-  d294e2c97c654247a37db316c817f0d6: 200004
-  d5fbdf908a3c44d3970d2d9283db200e: 200005
+  629cb4f39ef74066bfbfa549e09e0e49: 200000
+  cf140b4ff32c4bae80f0b4d101dbfcd9: 200001
+  8e56e38b6bd54f29aa4645dcacf6c680: 200002
+  38fc00d654284fd9950dfb28aacdb872: 200003
+  385ee83cb63440eea3b9c21f3114b835: 200004
+  2f0968dcc35f43b8aa2a9b98f8daf0a1: 200005
